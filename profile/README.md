@@ -48,7 +48,7 @@ STAGE는 오토스케일링을 통해 순간적으로 트래픽이 폭증하는 
 🙏 문의는 DM으로 부탁드려요 🙏
 | 이름  | 역할  | 이메일                                                       |
 | --- | --- | --------------------------------------------------------- |
-| 고경환(https://github.com/NakedFlower) | Infra | [nakedflower02@gmail.com](mailto:nakedflower02@gmail.com) |
-| 김학준(https://github.com/PUPAO) | Back-End | [tkdldjstm0127@gmail.com](mailto:tkdldjstm0127@gmail.com) |
-| 류예찬(https://github.com/Ryu-Yechan) | Infra | [nhsj201@gmail.com](mailto:nhsj201@gmail.com)             |
+| [고경환](https://github.com/NakedFlower) | Infra | [nakedflower02@gmail.com](mailto:nakedflower02@gmail.com) |
+| [김학준](https://github.com/PUPAO) | Back-End | [tkdldjstm0127@gmail.com](mailto:tkdldjstm0127@gmail.com) |
+| [류예찬](https://github.com/Ryu-Yechan) | Infra | [nhsj201@gmail.com](mailto:nhsj201@gmail.com)             |
 
