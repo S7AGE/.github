@@ -37,3 +37,18 @@ STAGE는 오토스케일링을 통해 순간적으로 트래픽이 폭증하는 
     * Throughput : 160.4/s
     * 접속 인원 : 880명
 * ~~동시 사용자 1,000~5,000명 시나리오 검증~~
+
+---
+
+> 구름 - 클라우드 네이티브 5회차
+> 프로젝트 기간 : `2025.11. ~ 2026.02.`
+
+
+## 👥 팀 CESCO 소개
+🙏 문의는 DM으로 부탁드려요 🙏
+| 이름  | 역할  | 이메일                                                       |
+| --- | --- | --------------------------------------------------------- |
+| 고경환(https://github.com/NakedFlower) | Infra | [nakedflower02@gmail.com](mailto:nakedflower02@gmail.com) |
+| 김학준(https://github.com/PUPAO) | Back-End | [tkdldjstm0127@gmail.com](mailto:tkdldjstm0127@gmail.com) |
+| 류예찬(https://github.com/Ryu-Yechan) | Infra | [nhsj201@gmail.com](mailto:nhsj201@gmail.com)             |
+
